@@ -7,6 +7,8 @@ const Comentario = props => (
         <div className='msg'>{props.children}</div>
         <p className='email'>{props.email}</p>
         <p className='data'>{props.data.toString()}</p>
+        <button className='btnRemover'
+            onClick={props.onRemove}>&times;</button>
     </div>
 );
 
