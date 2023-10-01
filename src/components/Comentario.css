@@ -1,0 +1,20 @@
+.Comentario{
+    background-color: aquamarine;
+    margin-bottom: 2rem;
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nome{
+    margin-left: 15px;
+}
+.msg{
+    margin-left: 15px;
+}
+.email{
+    margin-left: 15px;
+}
+.data{
+    margin-left: 15px;
+    font-size: 0.4cm;
+    
+}
