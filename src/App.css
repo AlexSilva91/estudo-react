@@ -1,9 +1,11 @@
 .App {
  padding: 0 30px;
+ box-shadow: slategray;
 }
+
 .btnComenta{
     size: 10px;
     font-family: 'Courier New', Courier, monospace;
-    background-color: bisque;
+    background-color: rgb(35, 207, 64);
     font-weight: bold;
 }
